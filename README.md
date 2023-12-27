@@ -1,6 +1,6 @@
-<img align="right" src='https://github-readme-stats-lushi78778.vercel.app/api/top-langs/?username=lushi78778&theme=nord&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=true&border_radius=0' width="40%" />
+<img align="right" src='https://github-readme-stats-lushi78778.vercel.app/api/top-langs/?username=lushi78778&theme=nord&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=true&border_radius=0' width="55%" />
 
-<img align="right" src='https://github-readme-stats-lushi78778.vercel.app/api?username=lushi78778&show_icons=true&theme=nord&count_private=true&hide_border=true&border_radius=0' width="40%" />
+<img align="right" src='https://github-readme-stats-lushi78778.vercel.app/api?username=lushi78778&show_icons=true&theme=nord&count_private=true&hide_border=true&border_radius=0' width="55%" />
 
 # lushi78778 [![HitCount](https://hits.dwyl.com/lushi78778/lushi78778.svg?style=flat-square)](http://hits.dwyl.com/lushi78778/lushi78778)
 
