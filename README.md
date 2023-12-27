@@ -14,7 +14,11 @@
 
 - [Blog - 随缘更新的博客](https://www.yuque.com/lushi78778/blog)
 
+- 邮我：<lushi78778@ewlgc.top>
 
+- 微信公众号
+
+![微信公众号](qrcode_wechat.jpg)
 
 <!-- # Some garbage
 
