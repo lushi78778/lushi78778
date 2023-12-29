@@ -20,6 +20,8 @@
 
 ![微信公众号](qrcode_wechat.jpg)
 
+- [Github Profile Summary](https://profile-summary-for-github.com/user/lushi78778)
+
 <!-- # Some garbage
 
 <a href="https://github.com/lushi78778/cf-workers-js">
