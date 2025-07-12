@@ -8,13 +8,13 @@
 
 请随便看看o(*￣▽￣*)ブ
 
-- [主站 - 个人首页](https://ewlgc.top/)
+- [主站 - 个人首页](https://xray.top/)
 
-- [alist - 网盘](https://pan.ewlgc.top/)
+- [alist - 网盘](https://pan.xray.top/)
 
 - [Blog - 随缘更新的博客](https://www.yuque.com/lushi78778/blog)
 
-- 邮我：<lushi78778@ewlgc.top>
+- 邮我：<lushi78778@xray.top>
 
 - 微信公众号
 
