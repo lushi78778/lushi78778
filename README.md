@@ -7,7 +7,7 @@
 
 - [主站 - 个人首页](https://xray.top/)
 
-- [Blog - 随缘更新的博客](https://xray.top/blog)
+- [市场行情试运行接口平台](https://stock.xray.top/)
 
 - 邮我：<lushi78778@xray.top>
 
