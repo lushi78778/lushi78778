@@ -8,6 +8,8 @@
 - [主站 - 个人首页](https://xray.top/)
 
 - [市场行情试运行接口平台](https://stock.xray.top/)
+  
+- [市场行情试运行接口平台文档](https://lushi78778.github.io/stock-api-v2-wiki/#/)
 
 - 邮我：<lushi78778@xray.top>
 
